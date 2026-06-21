@@ -48,11 +48,12 @@ The dashboard is divided into two sections:
 
 ### Workforce Overview
 
-(1.png)
+![Workforce Overview](1.png)
+
 
 ### Attrition Drivers Analysis
 
-(2.png)
+![Attrition Drivers Analysis](2.png)
 
 ## Dataset
 
